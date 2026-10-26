@@ -6,11 +6,11 @@ from email.message import EmailMessage
 # EMAIL CONFIGURATION
 # ==========================================
 
-SENDER_EMAIL = "alaallu26@gmail.com"
+SENDER_EMAIL = "sender's email"
 
-APP_PASSWORD = "rhwm arle resq sypt"
+APP_PASSWORD = "app password of your system"
 
-RECEIVER_EMAIL = "alaallu26@gmail.com"
+RECEIVER_EMAIL = "receiver's email"
 
 
 # ==========================================
